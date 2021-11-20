@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/gbsopks60/firstProject/_apis/build/status/gbs2953.pipelines-java?branchName=master)](https://dev.azure.com/gbsopks60/firstProject/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
